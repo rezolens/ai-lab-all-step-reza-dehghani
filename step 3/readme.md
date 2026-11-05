@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=900&pause=1000&repeat=false&width=435&lines=%DA%AF%D8%A7%D9%85+%D8%B3%D9%88%D9%85+-+%D8%B1%D8%B3%D9%85+%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1%D9%87%D8%A7" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=900&center=true&vCenter=true&pause=1000&repeat=false&width=435&lines=%DA%AF%D8%A7%D9%85+%D8%B3%D9%88%D9%85+-+%D8%B1%D8%B3%D9%85+%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1%D9%87%D8%A7" alt="Typing SVG" /></h1>
 
 در این بخش از پروژه، کار من رسم نمودارها برای بررسی مجموعه داده تشخیص اعداد دست نویس بوده است.
 
